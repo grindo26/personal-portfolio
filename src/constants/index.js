@@ -107,14 +107,14 @@ export const navLinks = [
         id: "projects",
         title: "Projects",
     },
-    {
-        id: "openSource",
-        title: "Open Source",
-    },
-    {
-        id: "extraCurricular",
-        title: "Extra Curricular",
-    },
+    // {
+    //     id: "openSource",
+    //     title: "Open Source",
+    // },
+    // {
+    //     id: "extraCurricular",
+    //     title: "Extra Curricular",
+    // },
     {
         id: "contactMe",
         title: "Contact Me",
@@ -391,7 +391,7 @@ export const experiences = [
         link: "https://changingthepresent.org/",
         positions: [
             {
-                title: "Software Engineer Intern",
+                title: "Software Engineer",
                 duration: "Jul 2024 - Present",
                 content: [
                     {
@@ -746,7 +746,7 @@ export const socialMedia = [
 export const aboutMe = {
     name: "Pratik Sangle",
     githubUsername: "grindo26",
-    tagLine: "Software Engineer (4+ yrs) | ex-SDE Intern @Vistaar",
+    tagLine: "Software Engineer (4+ yrs) | ex-SDE @Vistaar",
     intro: "I'm just a software engineer, always aiming to take one step better than I did the day before.",
 };
 
